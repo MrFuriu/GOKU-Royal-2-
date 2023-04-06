@@ -6,7 +6,7 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "Goku 2 HLC Intermission - Lerche and Narrator",
+      "title": "HLC Intermission - Lerche and Narrator",
       "volume": "1",
       "last_updated": "1680818007",
       "groups": {
@@ -14,11 +14,43 @@
       }
     },
     "2": {
-      "title": "Goku 2 HLC round 1 Lerche and Narrator vs Centaur-II \"Just in case\"",
+      "title": "HLC Round 1 vs Centaur-II \"Just in case\"",
       "volume": "1",
       "last_updated": "1680818095",
       "groups": {
         "": "/proxy/api/imgur/chapter/vfyPJin"
+      }
+    },
+    "3": {
+      "title": "HLC Round 1 vs EXJ \"Goku Fantasy Au\" -NOT CANON",
+      "volume": "1",
+      "last_updated": "1680818210",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Fp4W3Zl"
+      }
+    },
+    "4": {
+      "title": "GOKU ROYAL 2 exj vx lerche -CANON",
+      "volume": "1",
+      "last_updated": "1680818323",
+      "groups": {
+        "MADE BY SUPER TALENTET DUO OF 0YSTERSAUCE (art) AND bafes (writing) ": "/proxy/api/imgur/chapter/pLHvSWI"
+      }
+    },
+    "5": {
+      "title": "HLC round 3 vs Verjim",
+      "volume": "1",
+      "last_updated": "1680818624",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ldeSuiD"
+      }
+    },
+    "6": {
+      "title": "HLC Round 4 vs Public Speaking Devil \"Public broadcast\"",
+      "volume": "1",
+      "last_updated": "1680818716",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xLrLjr2"
       }
     }
   }
